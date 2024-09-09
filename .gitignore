@@ -1,0 +1,12 @@
+# ignore nextflow logs
+.nextflow*
+
+# ignore work directory
+work/
+
+# ignore test results
+test/results/
+test/simulated/
+
+# ignore hidden `DS_Store`
+.DS_Store
